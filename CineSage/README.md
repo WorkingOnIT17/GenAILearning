@@ -1,0 +1,1 @@
+WE recieve paragraph data, read it, clean,extract summary and return in structured JSON output.
